@@ -13,7 +13,7 @@
 
 <div align="center">
 
-## :computer: Tecnologías y herramientas que utilizo
+## :computer: Tecnologías y herramientas
   
 <br />
 
